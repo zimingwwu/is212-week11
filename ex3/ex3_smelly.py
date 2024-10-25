@@ -48,3 +48,4 @@ class Grocery:
         tax = self.price * tax_rate
         print(f"Tax for {self.name} (Grocery): {tax}")
         return tax
+
