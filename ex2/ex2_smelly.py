@@ -11,4 +11,3 @@ class Shape:
             base = kwargs.get('base')
             height = kwargs.get('height')
             return 0.5 * base * height
-
