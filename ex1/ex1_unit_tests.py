@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from ex1_refactored import OrderProcessor
+from ex1_smelly import OrderProcessor
 
 
 class TestOrderProcessor(unittest.TestCase):
